@@ -24,6 +24,7 @@ http://www.flashwolves.com/  xD?
 Step 1: get data
    - search wanin's website(s) for ESG updates
    - decide what KOLs and news agencies we are going to include in our daily scrapes. 
+   - scraper? and API (crowdtangle)
 
 step 2: find a way to filter and search our collected data
   - what are the hot topics of today?
