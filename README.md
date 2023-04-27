@@ -2,8 +2,7 @@
 
 ## main objective
 We have to create a twitter bot that is similar to one that owen has already made before with one of his students (https://twitter.com/ks_ESG_daily).
-Our bot is different because it will also comment on some of the ESG initiatives of companies under 網銀. We can also consider posting stuff about other 
-companies, otherwise it might a bit to obvious that we are promoting 網銀 lol.
+Our bot is different because it will also comment on some of the ESG initiatives of companies under Wanin, and other companies in Taiwan.
 
 goals and grading criteria
 - followers
