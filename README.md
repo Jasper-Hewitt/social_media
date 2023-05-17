@@ -1,6 +1,13 @@
 # social_media
 
 ## main objective
+
+### todo
+running things locally forever. steps.
+
+- convert .ipynb to .py (can be in private github page.)
+- connect it to owen's 機器. 
+
 We have to create a twitter bot that is similar to one that owen has already made before with one of his students (https://twitter.com/ks_ESG_daily).
 Our bot is different because it will also comment on some of the ESG initiatives of companies under Wanin, and other companies in Taiwan.
 
