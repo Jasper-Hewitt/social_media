@@ -4,8 +4,7 @@
 
 ### todo
 running things locally forever. steps.
-- there is an errror whenever the tweet is too long! fix this and put it into the code, maybe create another summarization step
-- create spokesman package
+- create spokesman package (JUST SAY WE WILL USE TWITTER BLUE SO THAT THE LONGER POSTS WON't BE A PROBLEM)
 - convert .ipynb to .py (can be in private github page.)
 - connect it to owen's server. 
 
